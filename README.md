@@ -35,7 +35,7 @@ Our project is to build a personal computer assistant which is capable of comple
     * PyQT5(GUI)
   * **API:**
     * Google Cloud([speech-to-text](https://cloud.google.com/speech-to-text/))
-    * Gmail(https://developers.google.com/gmail/api/)	 	 	
+    * [Gmail](https://developers.google.com/gmail/api/)	 	 	
     * [Openweathermap](https://openweathermap.org/api)
   * **Packages**
     * [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
